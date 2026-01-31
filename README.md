@@ -87,3 +87,34 @@ It displays essential product details in a card format.
   ProductCard/
 │── index.html
 │── style.css
+
+
+
+# Modern Startup Landing Page
+
+A responsive and modern **Startup Landing Page** built using **HTML, CSS, and Bootstrap 5**.  
+This project showcases a clean UI design suitable for startups, SaaS products, or business websites.
+
+---
+
+## 🚀 Features
+
+- Responsive Navigation Bar
+- Hero Section with Call-to-Action Buttons
+- Feature Highlights Section
+- Pricing Plans Section
+- Testimonials Section
+- Contact Form
+- Footer with Social Media Links
+- Smooth Hover Animations
+- Mobile Friendly Design
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Bootstrap Icons**
+- **Responsive Web Design**
