@@ -170,3 +170,56 @@ The Guess The Number game allows users to enter a number and check whether it ma
 - Event handling using `addEventListener`
 
 ---
+
+
+# Profile Card Generator 🎴
+
+A simple **Profile Card Generator** project built using **HTML, CSS, and JavaScript**.  
+This project dynamically creates a profile card when the user clicks a button, helping beginners understand **DOM manipulation** and **event handling**.
+
+---
+
+## 📌 Project Description
+
+The Profile Card Generator displays a user profile card containing:
+- Profile Image
+- Name
+- Short Description
+
+The card is generated dynamically using JavaScript when the **Generate The Card** button is clicked.
+
+This project is ideal for beginners who are learning **basic JavaScript and frontend development**.
+
+---
+
+## 🚀 Features
+
+- Dynamic profile card creation
+- Clean and simple UI
+- Beginner-friendly JavaScript logic
+- Uses DOM manipulation
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML** – Page structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – DOM manipulation and event handling  
+
+## ⚙️ How It Works
+
+1. The webpage loads with a **Generate The Card** button.
+2. On button click:
+   - JavaScript creates a new profile card using `createElement()`.
+   - Image, name, and description are added dynamically.
+   - The card is appended to the DOM.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding DOM manipulation
+- Using `addEventListener()` in JavaScript
+- Creating elements dynamically
+- Styling components using CSS Flexbox
